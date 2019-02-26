@@ -1,0 +1,2 @@
+# AdminLTE-minimal
+AdminLTE minimal
